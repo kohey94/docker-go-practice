@@ -11,6 +11,10 @@ dockerコマンドを個別に打ち込むとミスるので基本的にdocker-c
 ディレクトリの構成どうすればいいかはよく分からん（ブログ書いている人によってまちまち）  
 業務で使う場合は現場の書き方に合わせればいいか。  
 
+## 動かし方
+```> docker-compose up -d```  
+```> docker-compose exec go sh```  
+```> go run main.go```  
 
 ## 参考(感謝します)
 https://www.engilaboo.com/go-docker/  
