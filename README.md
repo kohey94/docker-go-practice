@@ -8,9 +8,11 @@ ubuntuの環境構築時によく使うツールをinstall.shに書いてgithub�
 docker-composeではdockerのビルドやコンテナ軌道のをオプション等をまとめて記述できる。  
 dockerコマンドを個別に打ち込むとミスるので基本的にdocker-composeに書いてdocker-compose upするのが良さそう。  
 
+ディレクトリの構成どうすればいいかはよく分からん（ブログ書いている人によってまちまち）  
+業務で使う場合は現場の書き方に合わせればいいか。  
 
 
 ## 参考(感謝します)
-https://www.engilaboo.com/go-docker/
+https://www.engilaboo.com/go-docker/  
 https://knowledge.sakura.ad.jp/13265/
 
